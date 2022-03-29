@@ -1,5 +1,5 @@
 # Мое Резюме 
 
-Вы можете посмотреть мою первую работу тут
+Вs можете посмотреть рультат тут
 
-[Duck Duck Go](https://duckduckgo.com).
+[Моя первая работа](https://anatoli-up.github.io/RESUME/text.html)
